@@ -64,7 +64,7 @@ After fetching information from APIs following code was used to compute total va
 ##### Visual output of the saving portfolio
  
 
-![Financial Planner](../Images/My_portfolio.png)
+![Financial Planner](/Images/My_portfolio.png)
    
 #### Saving Health Analysis 
 
