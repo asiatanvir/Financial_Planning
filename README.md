@@ -89,10 +89,10 @@ In this section,Alpaca API was used to fetch historical closing prices for a ret
  ```
 
  
-![monte_carlo_simu](../Images/monte_Carlo.png)
+![monte_carlo_simu](/Images/monte_Carlo.png)
 
 
-![monte_carlo_dis](../Images/mc_histogram.png)
+![monte_carlo_dis](/Images/mc_histogram.png)
 
 
       * The expected portfolio return at the 95% lower and upper confidence intervals based on a `$20,000` over the next 30 years will end within in the range of $100435.05 and $1009418.76. 
