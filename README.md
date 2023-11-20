@@ -95,14 +95,17 @@ In this section,Alpaca API was used to fetch historical closing prices for a ret
 ![monte_carlo_dis](/Images/mc_histogram.png)
 
 
-      * The expected portfolio return at the 95% lower and upper confidence intervals based on a `$20,000` over the next 30 years will end within in the range of $100435.05 and $1009418.76. 
+      * The expected portfolio return at the 95% lower and upper confidence intervals based on a `$20,000`
+      over the next 30 years will end within in the range of $100435.05 and $1009418.76. 
 
 ### Optional Challenge - Early Retirement
 
 The same above MCForecastTools toolkit was used to create Monte Carlo simulations to project the portfolio performance at `5 and 10` years with the increased initial investment to `$30,000`. The generated results showed,
 
-        *There is a 95% chance that an initial investment of $30000.0 in the portfolio over the next 5 years will end within in the range of $29388.16 and $78678.8.
-        * There is a 95% chance that an initial investment of $30000.0 in the portfolio over the next 10 years will end within in the range of $36533.39 and $139706.66.
+        *There is a 95% chance that an initial investment of $30000.0 in the portfolio over the next 5 years will end 
+        within in the range of $29388.16 and $78678.8.
+        * There is a 95% chance that an initial investment of $30000.0 in the portfolio over the next 10 years will end 
+        within in the range of $36533.39 and $139706.66.
 
         
 
