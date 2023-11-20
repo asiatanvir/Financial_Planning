@@ -72,7 +72,7 @@ Through `if` conditional statements the current savings were validated for an em
 
 ## Part 2 - Retirement Planning
 
-In this section,Alpaca API was used to fetch historical closing prices for a retirement portfolio and then Used the MCForecastTools toolkit to create Monte Carlo simulations to project the portfolio performance at `30` years. After setting the requisite parameteres through following coding Monte Carlo simulation were configured.
+In this section,Alpaca API was used to fetch historical closing prices for a retirement portfolio and then Used the MCForecastTools toolkit to create Monte Carlo simulations to project the portfolio performance at `30` years. After setting the requisite parameteres, through following coding Monte Carlo simulation were configured.
 
 ```
             #Set number of simulations
